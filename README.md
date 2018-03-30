@@ -1,4 +1,4 @@
-## sonar to real by pix2pix
+## sonar to real by cGAN
 
 ### USAGE
 - train without sonar images
