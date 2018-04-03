@@ -1,4 +1,4 @@
-# onar to image by cGAN
+# Sonar to image by cGAN
 An implementation of sonar to image in Keras.
 
 ## Requirements
