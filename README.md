@@ -10,7 +10,7 @@ An implementation of sonar to image in Keras.
 
 ## USAGE
 - train without sonar images
--- `python train.py -g [gpu ID] -b [batch size] -e [number of epochs] -o [output directory] -l [lambda] -d [darkness]`
+`python train.py -g [gpu ID] -b [batch size] -e [number of epochs] -o [output directory] -l [lambda] -d [darkness]`
 - train with sonar images
 `python train_sonar.py -g [gpu ID] -b [batch size] -e [number of epochs] -o [output directory] -l [lambda] -d [darkness]`
 
