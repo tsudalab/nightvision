@@ -1,5 +1,7 @@
 # Sonar to image by cGAN
-An implementation of sonar to image in Keras.
+An implementation* of sonar to image in Keras.
+
+* K. Terayama, K. Shin, K. Mizuno, K. Tsuda, "Integration of sonar and optical camera images using deep neural network for fish monitoring," Aquacultural Engineering, Vol. 86, 102000, 2019. [DOI: 10.1016/j.aquaeng.2019.102000]
 
 ## Requirements
 - python 3.6.1  
